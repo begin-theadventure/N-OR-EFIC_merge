@@ -6,8 +6,8 @@ This repository contains a merged `cl_conversation.gnut` file that allows both m
 ---
 Steps:
 
-Go to /path/to`/Titanfall2/R2Northstar/packages/`
-1. Delete the `conversation` folder in `Northstar_Archive-OS_Restoration-`version`/mods/OS Restoration/mod/scripts/vscripts/conversation`
+Go to /path/to`/Titanfall2/R2Northstar/packages`
+1. Delete the `conversation` folder in `Northstar_Archive-OS_Restoration-`version`/mods/OS Restoration/mod/scripts/vscripts`
 2. Download [`cl_conversation.gnut`](https://github.com/begin-theadventure/N-OR-EFIC_merge/blob/main/cl_conversation.gnut) (`Raw` -> Save link as) and replace in `NachosChipeados-EnableFactionIDCards-`version`/mods/Nachos.EnableIDCards/mod/scripts/vscripts/conversation`
 ---
 Comparisons:
